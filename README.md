@@ -1,10 +1,16 @@
-## Welcome to GitHub Pages
+# Introduction
 
 You can use the [editor on GitHub](https://github.com/mmnewman/16th_Century_Theory/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Backgroud
+
+## A Brief Introduction to Renaissance Music Theory
+
+## Text Selection
+
+# Methodology
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
