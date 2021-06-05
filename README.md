@@ -5,7 +5,7 @@ The music and theory of 16th century England lies in an “in-between” that pr
 # Backgroud
 
 ## A Brief Introduction to Renaissance Music Theory
-While the scope of this paper does not include a full analysis or explanation of music theory in the Renaissance, there are two important concepts needed to understand its implications: Gamut and Mode. The Gamut, a shortened version of "gamma ut," is the solmization of the lowest note on the medieval letter notation system (Morley, DATE). Like the musical staff used for notation today, musicians in the sixteenth century would place letters on a series of lines and spaces to help them determine what notes a musician should sing. They are labeled with the letters A-G. In order to interpret the Gamut, musicians must know the intervallic pitch content associated with the letters; this is the context that allows them to understand what these letters mean. This is similar to the way that letters apart have little meaning, but when placed in word.
+While the scope of this paper does not include a full analysis or explanation of music theory in the Renaissance, there are two important concepts needed to understand its implications: Gamut and Mode. The Gamut, a shortened version of "gamma ut," is the solmization of the lowest note on the medieval letter notation system (Morley, 1597). Like the musical staff used for notation today, musicians in the sixteenth century would place letters on a series of lines and spaces to help them determine what notes a musician should sing. They are labeled with the letters A-G. In order to interpret the Gamut, musicians must know the intervallic pitch content associated with the letters; this is the context that allows them to understand what these letters mean. This is similar to the way that letters apart have little meaning, but when placed in word. The letters for the Gamut can be seen on the left side of the diagram that appeared in Morley's A Plaine and Easie Introduction to Practicall Musicke (1597):
 
 <img width="417" alt="Morley Gamut" src="https://user-images.githubusercontent.com/72164586/120899953-7d998200-c5ef-11eb-9dda-32accb481d07.png">
 
@@ -50,13 +50,38 @@ Treating of Composing or Setting of Songs which models three important aspects o
 |morley_01|Thomas Morley|Teaching to Sing|
 |morley_02|Thomas Morley|Treating to Descant|
 |morley_03|Thomas Morley|Treating of Composing or Setting of Songs|
-|morley_04|Thomas Morley|A Briefe Introduction to the Skill of Song |
-|bathe_01|William Bathe|A Brief Introduction to the True Art of Music|
+|morley_04|Thomas Morley|End Matter|
+|bathe_01|William Bathe|A Briefe Introduction to the Skill of Song|
+|bathe_02|William Bathe|A Brief Introduction to the True Art of Music|
+
+Along with the preperation of texts was the preperation of a stopword list that was tailored for Middle English. This was done through looking through the texts for common English words with varient spellings (i.e. any for anies). Due to the specific nature of the texts, there was also consideration for common words that may have distinct meanings in music such as "re," wich acts as a solfege syllable and not as commonly to refer to something concerning something else. Once the corpus was uploaded to Voyant, the stoplist was adjusted once more to remove any words missed by hand. This also lead to the addition of the names in Morley's text to the coprus as they were not as important to the corpus as a whole as the individial book. 
 
 # Results and Discussion
+
+## The Corpus 
+Between all six documents, the coprus contains 85,664 total words with 6,314 of those words being unique word forms. Morley's documents are significantly longer than Bathe which may indicate that through the process of distant reading, Morley's texts will be more heavily weighted. Despite this, <img width="465" alt="Screen Shot 2021-06-05 at 1 39 11 PM" src="https://user-images.githubusercontent.com/72164586/120903450-6cf30700-c603-11eb-8517-2d3f9b47cfb6.png">
+
+
+|Rank|Document Title|Word Count|
+|-|-|-|
+|1|morley_03|24816|
+|2|morley_01|14024|
+|3|morley_02|17580|
+|4|morley_04|16177|
+|6|bathe_01|6978|
+|6|bathe_02|6089|
+
+## The Gamut
+
+<img width="465" alt="Screen Shot 2021-06-05 at 1 39 11 PM" src="https://user-images.githubusercontent.com/72164586/120903450-6cf30700-c603-11eb-8517-2d3f9b47cfb6.png">
+
 <img width="425" alt="Trend Graph of Scale, Cleifes, and Keye in Morley" src="https://user-images.githubusercontent.com/72164586/120900791-192cf180-c5f4-11eb-9d04-a529dba6752d.png">
 
 # Conclusions
+
+# References
+
+
 ```markdown
 
 
