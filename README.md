@@ -5,14 +5,19 @@ The music and theory of 16th century England lies in an “in-between” that pr
 # Backgroud
 
 ## A Brief Introduction to Renaissance Music Theory
-While the scope of this paper does not include a full analysis or explanation of music theory in the Renaissance, there are two important concepts needed to understand its implications: Gamut and Mode. The Gamut, a shortened version of "gamma ut," is the solmization of the lowest note on the medieval letter notation system (Morley, DATE). Like the musical staff used for notation today, musicians in the sixteenth century would place letters on a series of lines and spaces to help them determine what notes a musician should sing. They are labeled with the letters A-G. In order to interpret the Gamut, musicians must know the intervallic pitch content <img width="417" alt="Screen Shot 2021-06-05 at 11 16 32 AM" src="https://user-images.githubusercontent.com/72164586/120899953-7d998200-c5ef-11eb-9dda-32accb481d07.png">
-associated with the letters; this is the context that allows them to understand what these letters mean. This is similar to the way that letters apart have little meaning, but when placed in word.
+While the scope of this paper does not include a full analysis or explanation of music theory in the Renaissance, there are two important concepts needed to understand its implications: Gamut and Mode. The Gamut, a shortened version of "gamma ut," is the solmization of the lowest note on the medieval letter notation system (Morley, DATE). Like the musical staff used for notation today, musicians in the sixteenth century would place letters on a series of lines and spaces to help them determine what notes a musician should sing. They are labeled with the letters A-G. In order to interpret the Gamut, musicians must know the intervallic pitch content associated with the letters; this is the context that allows them to understand what these letters mean. This is similar to the way that letters apart have little meaning, but when placed in word.
 
-![Gamut from Morley](https://chmtl.indiana.edu/tme/16th/MOR1597A_02GF.gif) 
+<img width="417" alt="Morley Gamut" src="https://user-images.githubusercontent.com/72164586/120899953-7d998200-c5ef-11eb-9dda-32accb481d07.png">
+
+[*An Example Taken from Morley's A Plaine and Easy Introduction To Music*](https://chmtl.indiana.edu/tme/16th/MOR1597A_02GF.gif)
 
 The Continental conception of pitch space relates the pitches together through their intervallic relationship through the hexachord. The hexachord has six syllables that a singer can use: ut, re, mi, fa, sol, and la. The distance between mi-fa always indicates a half step while the others (ut-re, fa-sol, sol-la) are whole steps. The hexachords could start on one of three letters: C (natural hexachord), F (soft hexachord), and G (hard hexachord). Because not all pieces remained in the small space of six notes, the meant singers needed to mutate the hexachord to sing a full song. 
 
-The Gamut and the understanding of it was one of the primary ways that musicians conceived pitch space, or the way that pitches are perceived in relation to one another. While there is clearly an influence of continental ideas in many texts involving music theory in England during the 16th century, one significant change English theorists made from their Continental counterpoints was changes in solmization that lead to a change in English musicians understandings of how the gamut worked.  In her book Music Theory in Seventieth Century England, Rebecca Herissone comments that there was an “increasing awareness that modern pitch structure was based on the seven-note scale.” The English were increasingly concerned with the practicality of teaching people to sing as indicated by the use of words such as “Practical” or “brief” in the titles of their treatises. 
+[Hexachord Animation]
+
+The Gamut and the understanding of it was one of the primary ways that musicians conceived pitch space, or the way that pitches are perceived in relation to one another. While there is clearly an influence of continental ideas in many texts involving music theory in England during the 16th century, one significant change English theorists made from their Continental counterpoints was changes in solmization that lead to a change in English musicians understandings of how the gamut worked.  In her book Music Theory in Seventieth Century England, Rebecca Herissone comments that there was an “increasing awareness that modern pitch structure was based on the seven-note scale.” The English were increasingly concerned with the practicality of teaching people to sing as indicated by the use of words such as “Practical” or “brief” in the titles of their treatises. In his work "A Brief 
+
+Though these differences may appear small, they indicate a siginificant shift from some of the thinking found in treatises of the continent. 
 
 
 ## Text Selection
@@ -49,9 +54,11 @@ Treating of Composing or Setting of Songs which models three important aspects o
 |bathe_01|William Bathe|A Brief Introduction to the True Art of Music|
 
 # Results and Discussion
+<img width="425" alt="Trend Graph of Scale, Cleifes, and Keye in Morley" src="https://user-images.githubusercontent.com/72164586/120900791-192cf180-c5f4-11eb-9d04-a529dba6752d.png">
 
 # Conclusions
 ```markdown
+
 
 # Header 1
 ## Header 2
