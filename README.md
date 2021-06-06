@@ -147,18 +147,18 @@ Through a combination of close reading and distant reading, it is aparent that T
 
 # References
 
-English Theory Corpus - Voyant Tools. (n.d.). Retrieved June 5, 2021, from https://voyant-tools.org/?corpus=f8d87652557f789fe522e47988f701e1
+English theory corpus: Voyant tools. (n.d.). Retrieved June 5, 2021, from https://voyant-tools.org/?corpus=f8d87652557f789fe522e47988f701e1
 
-Herissone, R. (2001). Music Theory in Seventeenth-Century England. Oxford University Press.
+Herissone, R. (2001). Music theory in Seventeenth-Century England. Oxford University Press.
 
-Le Huray, P.(2001). Bathe, William. Grove Music Online. Retrieved June 4, 2021, from http://www.oxfordmusiconline.com/grovemusic/view/10.1093/gmo/9781561592630.001.0001/omo-9781561592630-e-0000002305
+Le Huray, P. (2001). Bathe, William. Grove Music Online. Retrieved June 4, 2021, from http://www.oxfordmusiconline.com/grovemusic/view/10.1093/gmo/9781561592630.001.0001/omo-9781561592630-e-0000002305
 
-McCallum, Andrew Kachites. (2002)  "MALLET: A Machine Learning for Language Toolkit."
+McCallum, Andrew Kachites. (2002) MALLET: A machine learning for language toolkit.
     http://mallet.cs.umass.edu.
 
 Murray, T. (2001). Morley, Thomas. Grove Music Online. Retrieved June 4, 2021, from http://www.oxfordmusiconline.com/grovemusic/view/10.1093/gmo/9781561592630.001.0001/omo-9781561592630-e-0000019147
 
-Owens, J. A. (2014). Conceptions of Pitch in English Music Theory, c. 1560-1640. In C. C. Judd (Ed.), Tonal Structures in Early Music (183-247). Routledge Taylor & Francis Group.
+Owens, J. A. (2014). Conceptions of pitch in English music theory, c. 1560-1640. In C. C. Judd (Ed.), Tonal structures in early music (183-247). Routledge Taylor & Francis Group.
 
 
 *Michele Newman - June 5, 2021*
